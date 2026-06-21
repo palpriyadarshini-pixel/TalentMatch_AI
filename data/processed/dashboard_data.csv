@@ -1,0 +1,5501 @@
+ID,Category,Final_Score,Matched_Skills,Missing_Skills,Explanation
+29051656,INFORMATION-TECHNOLOGY,32.77168210347493,"['aws', 'sql']","['python', 'machine learning', 'deep learning', 'tensorflow']","
+
+Final Score: 32.77
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20824105,INFORMATION-TECHNOLOGY,32.54928334554036,"['python', 'aws']","['machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 32.55
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12415691,DESIGNER,27.387943585713703,"['python', 'sql']","['machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 27.39
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16186411,INFORMATION-TECHNOLOGY,25.72881189982096,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 25.73
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26746496,INFORMATION-TECHNOLOGY,25.56176630655924,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 25.56
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+79541391,INFORMATION-TECHNOLOGY,25.31959025065104,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 25.32
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+83816738,INFORMATION-TECHNOLOGY,25.20938714345296,"['aws', 'sql']","['python', 'machine learning', 'deep learning', 'tensorflow']","
+
+Final Score: 25.21
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30223363,INFORMATION-TECHNOLOGY,24.984733263651528,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 24.98
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+33381211,INFORMATION-TECHNOLOGY,24.14412911732992,"['aws', 'sql']","['python', 'machine learning', 'deep learning', 'tensorflow']","
+
+Final Score: 24.14
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13385306,INFORMATION-TECHNOLOGY,24.125565210978188,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 24.13
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20001721,INFORMATION-TECHNOLOGY,24.001579920450844,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 24.0
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20674668,INFORMATION-TECHNOLOGY,23.815724690755207,"['python', 'sql']","['machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 23.82
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13405733,INFORMATION-TECHNOLOGY,23.43549187978109,"['python', 'sql']","['machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 23.44
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+90867631,INFORMATION-TECHNOLOGY,23.180320421854653,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 23.18
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28126340,INFORMATION-TECHNOLOGY,22.75121752421061,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 22.75
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12763627,INFORMATION-TECHNOLOGY,22.60395685831705,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 22.6
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11919526,DESIGNER,22.34549204508464,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 22.35
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11580408,INFORMATION-TECHNOLOGY,21.88757483164469,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.89
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10265057,INFORMATION-TECHNOLOGY,21.751969655354817,"['python', 'sql']","['machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.75
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36434348,INFORMATION-TECHNOLOGY,21.632444063822422,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.63
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+31243710,INFORMATION-TECHNOLOGY,21.50215403238932,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.5
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18187364,INFORMATION-TECHNOLOGY,21.42630831400553,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.43
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11963737,ADVOCATE,21.36355272928873,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.36
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30968749,DESIGNER,21.17189661661784,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.17
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37242217,INFORMATION-TECHNOLOGY,21.12861601511637,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 21.13
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+85101052,DESIGNER,20.890296618143715,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.89
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37764298,INFORMATION-TECHNOLOGY,20.84554354349772,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.85
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29975124,INFORMATION-TECHNOLOGY,20.72749201456705,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.73
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+57002858,INFORMATION-TECHNOLOGY,20.67806116739909,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.68
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10553553,INFORMATION-TECHNOLOGY,20.415589014689125,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.42
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+35990852,DESIGNER,20.406789461771645,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.41
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26071861,ADVOCATE,20.12928930918376,['python'],"['machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 20.13
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28897981,INFORMATION-TECHNOLOGY,20.123864809672035,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 20.12
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10089434,INFORMATION-TECHNOLOGY,19.80222098032633,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.8
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+31111279,INFORMATION-TECHNOLOGY,19.73996480305989,"['aws', 'sql']","['python', 'machine learning', 'deep learning', 'tensorflow']","
+
+Final Score: 19.74
+
+Matched Skills: 2
+
+Missing Skills: 4
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26671167,HR,19.45126310984293,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 19.45
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51639418,INFORMATION-TECHNOLOGY,19.3797918955485,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.38
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17111768,INFORMATION-TECHNOLOGY,19.2698294321696,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.27
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10247517,INFORMATION-TECHNOLOGY,19.19776503245036,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.2
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+70089206,INFORMATION-TECHNOLOGY,19.12673536936441,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.13
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27536013,INFORMATION-TECHNOLOGY,19.074923197428383,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.07
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39776400,DESIGNER,19.052142779032387,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 19.05
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18301617,INFORMATION-TECHNOLOGY,19.040129343668617,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 19.04
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26480367,INFORMATION-TECHNOLOGY,18.82641569773356,['python'],"['machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 18.83
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+81011612,DESIGNER,18.479081789652504,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.48
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17688766,INFORMATION-TECHNOLOGY,18.441719690958656,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.44
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27770859,INFORMATION-TECHNOLOGY,18.399100939432778,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.4
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29524570,DESIGNER,18.389712969462074,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.39
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29564653,HR,18.35229682922364,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 18.35
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14528265,DESIGNER,18.33355108896891,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 18.33
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18297650,HR,18.32384363810221,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.32
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+41344156,INFORMATION-TECHNOLOGY,18.17351977030436,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.17
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20024870,INFORMATION-TECHNOLOGY,18.094488779703774,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 18.09
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19796840,INFORMATION-TECHNOLOGY,17.906518618265785,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.91
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22776912,INFORMATION-TECHNOLOGY,17.847499529520668,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.85
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20879311,INFORMATION-TECHNOLOGY,17.824005762736,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.82
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22450718,INFORMATION-TECHNOLOGY,17.680533409118652,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.68
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15651486,INFORMATION-TECHNOLOGY,17.66888872782389,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.67
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10751444,DESIGNER,17.624697367350258,['python'],"['machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.62
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16877897,HR,17.607017199198403,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.61
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28035460,INFORMATION-TECHNOLOGY,17.5698299407959,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18176523,INFORMATION-TECHNOLOGY,17.36431852976481,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.36
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+95714702,ADVOCATE,17.355220794677734,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11584809,INFORMATION-TECHNOLOGY,17.292086601257324,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36856210,INFORMATION-TECHNOLOGY,17.283296585083008,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.28
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20408458,INFORMATION-TECHNOLOGY,17.16964340209961,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 17.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13836471,INFORMATION-TECHNOLOGY,17.110050360361733,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 17.11
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32896934,HR,17.109306494394936,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 17.11
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14640322,HR,16.893811225891113,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.89
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18084150,HR,16.831605116526283,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 16.83
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26768723,INFORMATION-TECHNOLOGY,16.734715461730957,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.73
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14789139,INFORMATION-TECHNOLOGY,16.630523363749184,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 16.63
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+46260230,INFORMATION-TECHNOLOGY,16.587645530700684,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11773767,ADVOCATE,16.569493293762207,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19201175,INFORMATION-TECHNOLOGY,16.567543983459473,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21780877,INFORMATION-TECHNOLOGY,16.56551170349121,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27295996,INFORMATION-TECHNOLOGY,16.496611754099526,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 16.5
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51363762,INFORMATION-TECHNOLOGY,16.395400047302246,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11957080,INFORMATION-TECHNOLOGY,16.37181250254313,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 16.37
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17681064,INFORMATION-TECHNOLOGY,16.27736473083496,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.28
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19616406,HR,16.27399730682373,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26924514,DESIGNER,16.24924945831299,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.25
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25959103,INFORMATION-TECHNOLOGY,16.212002913157143,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 16.21
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25207620,INFORMATION-TECHNOLOGY,16.171247482299805,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39413067,INFORMATION-TECHNOLOGY,16.115046660105385,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 16.12
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+35474904,ADVOCATE,16.090103149414062,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.09
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32977530,HR,16.048965454101562,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.05
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+42164460,ADVOCATE,16.01360511779785,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 16.01
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15297298,INFORMATION-TECHNOLOGY,15.963129043579102,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34657584,DESIGNER,15.957542419433594,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+59962788,HR,15.795803705851236,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 15.8
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24083609,INFORMATION-TECHNOLOGY,15.719353675842283,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25990239,INFORMATION-TECHNOLOGY,15.680973052978516,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.68
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29075857,INFORMATION-TECHNOLOGY,15.648239771525065,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 15.65
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38860712,ADVOCATE,15.647687594095864,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 15.65
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51769822,HR,15.58131504058838,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.58
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+52246737,INFORMATION-TECHNOLOGY,15.567404747009276,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25857360,INFORMATION-TECHNOLOGY,15.516331672668455,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18198627,DESIGNER,15.513449668884276,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.51
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+52618188,INFORMATION-TECHNOLOGY,15.372088432312012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+54067174,ADVOCATE,15.338641166687012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.34
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+73448369,ADVOCATE,15.328085899353027,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.33
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32965335,ADVOCATE,15.313429037729898,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 15.31
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11592605,HR,15.242947578430176,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.24
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20237244,INFORMATION-TECHNOLOGY,15.177632331848145,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34317538,DESIGNER,15.175453344980877,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 15.18
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13909762,ADVOCATE,15.17187213897705,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11847784,HR,15.11870002746582,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19717385,HR,15.107861518859863,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.11
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+93301686,DESIGNER,15.011143684387209,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 15.01
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32959732,INFORMATION-TECHNOLOGY,14.974934736887612,['sql'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws']","
+
+Final Score: 14.97
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14146106,ADVOCATE,14.956812858581545,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24020470,INFORMATION-TECHNOLOGY,14.895079612731934,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.9
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12635195,INFORMATION-TECHNOLOGY,14.88307253519694,['python'],"['machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.88
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28808263,HR,14.862871170043944,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.86
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+33241454,INFORMATION-TECHNOLOGY,14.833758354187012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.83
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24754689,ADVOCATE,14.794293085734049,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 14.79
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10399912,HR,14.784156799316406,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26622051,DESIGNER,14.779407501220703,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+78149576,DESIGNER,14.779264450073242,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27372171,INFORMATION-TECHNOLOGY,14.776482582092283,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17641670,INFORMATION-TECHNOLOGY,14.741708755493164,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+35325329,INFORMATION-TECHNOLOGY,14.70241928100586,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.7
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11698189,HR,14.657119750976562,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.66
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28206098,ADVOCATE,14.609954833984377,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.61
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15791766,INFORMATION-TECHNOLOGY,14.60814094543457,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.61
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32532982,DESIGNER,14.538044929504396,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.54
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29865476,DESIGNER,14.536865234375,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.54
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25905275,INFORMATION-TECHNOLOGY,14.487008094787598,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.49
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10641230,INFORMATION-TECHNOLOGY,14.436769485473633,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39081840,HR,14.363607406616213,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24913648,INFORMATION-TECHNOLOGY,14.35428237915039,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.35
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24230851,INFORMATION-TECHNOLOGY,14.352777481079102,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.35
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51209395,TEACHER,14.340912818908691,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.34
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30646367,HR,14.315326690673828,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.32
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15337481,ADVOCATE,14.27432346343994,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+40018190,INFORMATION-TECHNOLOGY,14.257691383361816,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.26
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19179079,HR,14.256359100341797,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.26
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28974459,ADVOCATE,14.19398021697998,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27490876,HR,14.182047843933104,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36392131,ADVOCATE,14.168527603149414,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27018550,HR,14.0996732711792,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.1
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+49475708,ADVOCATE,14.078582763671877,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 14.08
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30965258,DESIGNER,13.993597030639648,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.99
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27798860,TEACHER,13.966997146606444,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24508725,HR,13.94292449951172,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.94
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26496059,DESIGNER,13.893301010131836,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.89
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27496514,HR,13.879209518432615,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.88
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+91635250,INFORMATION-TECHNOLOGY,13.847813606262209,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.85
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+91697974,INFORMATION-TECHNOLOGY,13.81785011291504,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.82
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20400279,ADVOCATE,13.811891555786133,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+49486820,ADVOCATE,13.78584098815918,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.79
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17812897,HR,13.76449171702067,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 13.76
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28828844,HR,13.756509780883787,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.76
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+97405769,ADVOCATE,13.747139930725098,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.75
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22259475,ADVOCATE,13.7293062210083,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.73
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15576950,HR,13.72134780883789,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23666211,INFORMATION-TECHNOLOGY,13.72075366973877,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27058381,INFORMATION-TECHNOLOGY,13.649703979492188,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.65
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+64017585,INFORMATION-TECHNOLOGY,13.612887382507324,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.61
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24184357,HR,13.584243774414062,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.58
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+46258701,HR,13.583312034606934,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.58
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11188218,ADVOCATE,13.57908535003662,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.58
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18835363,DESIGNER,13.562525749206545,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.56
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23408537,HR,13.553953170776367,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.55
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20748926,DESIGNER,13.519231796264648,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29149998,HR,13.512713432312012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.51
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22391901,ADVOCATE,13.49754238128662,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.5
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13477922,INFORMATION-TECHNOLOGY,13.472308158874512,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.47
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+91121135,INFORMATION-TECHNOLOGY,13.452207565307615,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16861758,HR,13.451715469360352,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28419173,HR,13.44830322265625,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20932019,DESIGNER,13.440998077392578,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17987433,INFORMATION-TECHNOLOGY,13.393536567687988,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.39
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22675694,DESIGNER,13.382554054260254,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.38
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+44185767,DESIGNER,13.376494407653809,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.38
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+44145704,DESIGNER,13.337112426757812,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.34
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21283365,INFORMATION-TECHNOLOGY,13.336942672729492,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.34
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+73077810,HR,13.280179023742676,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.28
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+74126637,ADVOCATE,13.277935981750488,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.28
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10839851,INFORMATION-TECHNOLOGY,13.272909164428713,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23527321,INFORMATION-TECHNOLOGY,13.267380714416504,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+67582956,DESIGNER,13.25258731842041,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.25
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27847081,HR,13.23847484588623,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.24
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10527994,TEACHER,13.23145580291748,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.23
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10466583,DESIGNER,13.229292869567873,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.23
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30163002,HR,13.184308052062988,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16533554,INFORMATION-TECHNOLOGY,13.184244155883787,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25873425,ADVOCATE,13.17853832244873,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12334140,INFORMATION-TECHNOLOGY,13.154570579528809,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.15
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19867922,HR,13.134047508239746,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.13
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38750659,TEACHER,13.110371589660645,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.11
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18557164,HR,13.075922966003418,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.08
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+78538268,ADVOCATE,13.01377296447754,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 13.01
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34970271,ADVOCATE,12.983348369598389,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.98
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24410405,ADVOCATE,12.970917224884031,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+86184722,HR,12.957767486572266,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26202430,HR,12.953535556793211,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.95
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+66832845,INFORMATION-TECHNOLOGY,12.95244598388672,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.95
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17412079,HR,12.951143264770508,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.95
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20417897,HR,12.923547744750977,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.92
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19195747,DESIGNER,12.9066424369812,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.91
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+47470864,HR,12.903467178344728,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.9
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+57667857,HR,12.895915985107422,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.9
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24038620,INFORMATION-TECHNOLOGY,12.872219562530518,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.87
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32308556,HR,12.840731620788574,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29297973,HR,12.840572834014893,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+41506705,DESIGNER,12.814783096313477,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11763983,HR,12.801575183868408,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.8
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28063132,TEACHER,12.784769535064695,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19336728,HR,12.781654357910156,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28697203,INFORMATION-TECHNOLOGY,12.777717590332031,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+76010167,DESIGNER,12.768893241882324,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16332348,ADVOCATE,12.75064992904663,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.75
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29091445,HR,12.730539798736572,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.73
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51018476,DESIGNER,12.721326351165771,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12045067,INFORMATION-TECHNOLOGY,12.708270072937012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.71
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10840430,INFORMATION-TECHNOLOGY,12.691460132598875,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.69
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+52979663,HR,12.688237190246582,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.69
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14256329,HR,12.670297622680664,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.67
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37058472,DESIGNER,12.666688919067385,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.67
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18422164,HR,12.661644458770752,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.66
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16899268,INFORMATION-TECHNOLOGY,12.656613826751707,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.66
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34740556,HR,12.633986949920654,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.63
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18979238,DESIGNER,12.623072147369385,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.62
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20324037,ADVOCATE,12.598639488220217,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.6
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13879043,HR,12.581641674041748,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.58
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24402267,HR,12.567194938659668,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21283733,DESIGNER,12.548619747161863,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.55
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17422560,HR,12.526987075805664,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.53
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20390397,DESIGNER,12.474573612213137,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.47
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17021141,ADVOCATE,12.436612129211426,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27497542,DESIGNER,12.43570327758789,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18827609,HR,12.427056312561035,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.43
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27485716,INFORMATION-TECHNOLOGY,12.42702865600586,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.43
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+68460556,INFORMATION-TECHNOLOGY,12.420121192932127,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.42
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20993320,HR,12.41242265701294,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.41
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37348041,ADVOCATE,12.40119981765747,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14743911,DESIGNER,12.387131690979004,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.39
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+67645662,DESIGNER,12.293437957763672,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20626794,TEACHER,12.290507793426514,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13774329,DESIGNER,12.254098415374756,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.25
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+45987048,TEACHER,12.22435712814331,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.22
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17555081,DESIGNER,12.21574068069458,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.22
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32947778,HR,12.191153049468994,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18159866,INFORMATION-TECHNOLOGY,12.17602825164795,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+90066849,DESIGNER,12.174744606018066,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+93002334,HR,12.146001815795898,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.15
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18316239,HR,12.123996257781982,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39434376,DESIGNER,12.10963249206543,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.11
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+90468982,ADVOCATE,12.096155166625977,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.1
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26676567,DESIGNER,12.061835289001465,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.06
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+92069209,INFORMATION-TECHNOLOGY,12.036358833312988,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.04
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37664296,DESIGNER,12.025509357452393,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 12.03
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13557622,DESIGNER,11.986973285675049,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.99
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24889109,INFORMATION-TECHNOLOGY,11.931006908416748,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.93
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11336022,TEACHER,11.92701768875122,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.93
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25949631,DESIGNER,11.925918102264404,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.93
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25724495,HR,11.897324562072754,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.9
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24791126,TEACHER,11.889503479003906,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.89
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26780935,HR,11.874223232269289,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.87
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+69005326,TEACHER,11.855040073394775,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.86
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+72231872,HR,11.839452743530272,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34554248,HR,11.836539268493652,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+80162314,HR,11.79559850692749,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.8
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24455357,DESIGNER,11.785272598266602,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.79
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24588864,ADVOCATE,11.76995611190796,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28672970,INFORMATION-TECHNOLOGY,11.752808570861816,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.75
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37402097,TEACHER,11.741412162780762,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17855844,HR,11.729658126831056,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.73
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11807040,DESIGNER,11.724257946014404,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14225422,HR,11.69593381881714,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.7
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18155310,HR,11.654097080230711,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.65
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22496394,DESIGNER,11.594382762908936,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39970711,HR,11.593841552734377,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19918523,TEACHER,11.59316873550415,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23951429,DESIGNER,11.590669631958008,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23510685,HR,11.57099199295044,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37560528,ADVOCATE,11.54985523223877,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.55
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+58708773,TEACHER,11.529908657073976,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.53
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30563572,HR,11.52870225906372,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.53
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28933005,TEACHER,11.524819374084473,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38565119,DESIGNER,11.516544342041016,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+81761658,INFORMATION-TECHNOLOGY,11.502023220062256,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.5
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17150707,HR,11.499220371246338,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.5
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26503829,DESIGNER,11.498739242553713,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.5
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22323967,HR,11.492853164672852,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.49
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10344379,ADVOCATE,11.462118148803713,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.46
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+48037995,INFORMATION-TECHNOLOGY,11.46079158782959,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.46
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20925036,HR,11.452687740325928,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13518263,DESIGNER,11.422462463378906,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.42
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27529455,DESIGNER,11.38588571548462,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.39
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14176254,ADVOCATE,11.371720790863035,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+33176873,HR,11.368169784545898,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36269672,DESIGNER,11.365074157714844,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22551979,TEACHER,11.319096565246582,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.32
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10694288,HR,11.304638862609863,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.3
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37695494,DESIGNER,11.295823097229004,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.3
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26801767,INFORMATION-TECHNOLOGY,11.2617769241333,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.26
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28175164,HR,11.193215052286783,['aws'],"['python', 'machine learning', 'deep learning', 'tensorflow', 'sql']","
+
+Final Score: 11.19
+
+Matched Skills: 1
+
+Missing Skills: 5
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39252859,DESIGNER,11.184011936187744,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26048718,HR,11.166861057281494,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19464810,TEACHER,11.15956211090088,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.16
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34465087,TEACHER,11.127177238464355,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.13
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15375009,HR,11.12602996826172,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.13
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11958994,DESIGNER,11.121994018554688,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21705160,DESIGNER,11.115931510925291,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20604208,ADVOCATE,11.09730577468872,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.1
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28772892,TEACHER,11.09255599975586,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.09
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14064815,ADVOCATE,11.079203605651855,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.08
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+89413122,INFORMATION-TECHNOLOGY,11.073973178863524,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.07
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13087952,TEACHER,11.0712890625,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.07
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25588694,TEACHER,11.053786277770996,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.05
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26790545,DESIGNER,11.046405792236328,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.05
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+72652441,ADVOCATE,11.037734985351562,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.04
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23864648,INFORMATION-TECHNOLOGY,11.01551389694214,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 11.02
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12544735,ADVOCATE,10.983264923095703,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.98
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29147100,DESIGNER,10.96527624130249,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21265194,HR,10.869972705841064,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.87
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13520837,HR,10.847918510437012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.85
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37263609,DESIGNER,10.82789659500122,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.83
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38291889,ADVOCATE,10.82111358642578,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.82
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+91930382,HR,10.813034057617188,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27523575,HR,10.80955410003662,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25150191,HR,10.809462070465088,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15850434,TEACHER,10.785664558410645,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.79
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15118506,INFORMATION-TECHNOLOGY,10.772362232208252,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13967854,ADVOCATE,10.769806385040283,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+42384185,DESIGNER,10.747037887573242,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.75
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25824789,HR,10.71665382385254,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36694627,ADVOCATE,10.714946746826172,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.71
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21830565,HR,10.703567504882812,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.7
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15471999,DESIGNER,10.702147006988524,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.7
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+94417768,DESIGNER,10.659914493560793,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.66
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+76196367,TEACHER,10.655112266540527,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.66
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10748989,DESIGNER,10.603889465332031,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.6
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+62312955,DESIGNER,10.55708360671997,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.56
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22884757,TEACHER,10.54634952545166,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.55
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25729119,TEACHER,10.54229736328125,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.54
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+31552617,TEACHER,10.537955284118652,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.54
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12786012,HR,10.522226810455322,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34745915,TEACHER,10.520715713500977,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32067700,TEACHER,10.46382474899292,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.46
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12547982,DESIGNER,10.446182250976562,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11722421,DESIGNER,10.429096698760986,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.43
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16820422,TEACHER,10.42290210723877,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.42
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23914451,HR,10.401206493377686,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+32954522,DESIGNER,10.40041732788086,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14014749,DESIGNER,10.375008583068848,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.38
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+44476983,HR,10.364391803741457,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+63391085,TEACHER,10.35768175125122,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38753827,INFORMATION-TECHNOLOGY,10.350393772125244,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.35
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22567495,DESIGNER,10.285211563110352,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13014900,DESIGNER,10.273858070373535,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12587973,TEACHER,10.24159049987793,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.24
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14724186,DESIGNER,10.217769145965576,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.22
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18997135,ADVOCATE,10.206348896026611,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.21
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18460045,DESIGNER,10.202927589416504,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.2
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29926588,ADVOCATE,10.187366008758543,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28013287,TEACHER,10.186601161956789,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+95970987,ADVOCATE,10.18000555038452,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.18
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15802627,INFORMATION-TECHNOLOGY,10.158439636230469,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.16
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25676643,HR,10.140542030334473,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.14
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+45286020,TEACHER,10.116348266601562,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26942552,DESIGNER,10.081294059753418,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.08
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+49937469,HR,10.062277793884276,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.06
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25422388,DESIGNER,10.061749458312988,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.06
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+37660306,TEACHER,10.02855348587036,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 10.03
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+66906212,TEACHER,9.992908000946043,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.99
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16852973,HR,9.97547483444214,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.98
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20272792,ADVOCATE,9.968303203582764,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16270906,TEACHER,9.966722011566162,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+68240723,DESIGNER,9.95659065246582,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39650734,HR,9.928194522857666,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.93
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15041689,HR,9.852884769439695,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.85
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+74191424,ADVOCATE,9.849736213684082,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.85
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+91153752,DESIGNER,9.844425201416016,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+54201930,DESIGNER,9.836629867553713,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20765795,ADVOCATE,9.805438041687012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15575117,HR,9.7993803024292,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.8
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34051710,DESIGNER,9.788166999816896,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.79
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27524018,TEACHER,9.770014762878418,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+93112113,HR,9.761036396026611,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.76
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34689720,TEACHER,9.726912021636965,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.73
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+58665241,TEACHER,9.685412406921388,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.69
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21916744,DESIGNER,9.680381774902344,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.68
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+70892619,TEACHER,9.624831199645996,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.62
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26289308,HR,9.569536209106444,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18334783,HR,9.569068908691406,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+26046064,DESIGNER,9.564984798431396,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.56
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34349255,DESIGNER,9.514048099517822,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.51
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23155093,HR,9.463036060333252,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.46
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17481570,TEACHER,9.447023868560793,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23427369,ADVOCATE,9.445786952972412,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.45
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23939133,TEACHER,9.437366008758543,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13296856,TEACHER,9.418169498443604,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.42
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22510753,TEACHER,9.41234302520752,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.41
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10186968,ADVOCATE,9.397523403167725,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11480899,HR,9.395059585571287,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22506245,DESIGNER,9.392606258392334,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.39
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13998435,DESIGNER,9.390024662017822,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.39
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20138606,ADVOCATE,9.380560874938965,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.38
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13583538,TEACHER,9.368839740753174,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23628651,TEACHER,9.364338397979736,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+99244405,TEACHER,9.312475204467772,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.31
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21773106,TEACHER,9.267577648162842,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.27
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25023614,DESIGNER,9.232661247253418,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.23
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13376919,HR,9.211186408996582,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.21
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17199951,DESIGNER,9.209654808044434,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.21
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28086303,TEACHER,9.1663556098938,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34033933,TEACHER,9.143871307373049,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.14
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+74816727,TEACHER,9.123375415802002,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12674307,DESIGNER,9.103846073150637,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.1
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23398843,TEACHER,9.09887981414795,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 9.1
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13593241,ADVOCATE,8.98814082145691,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.99
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+41523474,HR,8.979670524597168,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.98
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+33704389,TEACHER,8.835452795028687,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15936656,DESIGNER,8.829698324203491,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.83
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+87968870,HR,8.817144870758057,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.82
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19850482,INFORMATION-TECHNOLOGY,8.787915706634521,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.79
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15899269,TEACHER,8.77724289894104,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22056333,TEACHER,8.738158464431763,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18795567,DESIGNER,8.724918603897095,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27165830,HR,8.722649097442627,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.72
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19556300,TEACHER,8.674795150756836,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.67
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18001081,TEACHER,8.63846230506897,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.64
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+86597425,TEACHER,8.6288001537323,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.63
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14958913,TEACHER,8.61463975906372,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.61
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+23577836,ADVOCATE,8.609154462814331,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.61
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18752129,INFORMATION-TECHNOLOGY,8.597999095916748,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.6
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+25061645,DESIGNER,8.573315858840942,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29486525,TEACHER,8.572742223739624,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.57
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+30862904,HR,8.521398067474365,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.52
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14886205,HR,8.511952638626099,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.51
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22807104,TEACHER,8.496182441711426,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.5
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21531811,TEACHER,8.486092805862427,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.49
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28663949,DESIGNER,8.460486650466919,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.46
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29267293,TEACHER,8.401159048080444,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.4
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18725071,ADVOCATE,8.363457202911377,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.36
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16288901,DESIGNER,8.30772352218628,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.31
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29797594,TEACHER,8.245139122009277,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.25
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29930479,TEACHER,8.194382429122925,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+90363254,TEACHER,8.188804864883423,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.19
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+29639533,TEACHER,8.164948225021362,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.16
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+35421497,TEACHER,8.148811340332031,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.15
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24583187,DESIGNER,8.134431600570679,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.13
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20478831,TEACHER,8.116826057434082,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+18731098,HR,8.09430480003357,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 8.09
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+15425154,DESIGNER,7.992329597473144,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.99
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24285142,DESIGNER,7.9616734981536865,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+49285644,TEACHER,7.959119558334351,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28640735,HR,7.839555025100708,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.84
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13330982,TEACHER,7.776002883911133,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28326441,DESIGNER,7.772947549819946,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10909720,TEACHER,7.736733198165893,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19786924,TEACHER,7.735428810119629,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+79663360,TEACHER,7.678605079650879,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.68
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20230207,TEACHER,7.675201416015625,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.68
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+16210888,TEACHER,7.589357376098633,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+13855004,TEACHER,7.549638271331787,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.55
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12171093,ADVOCATE,7.48115873336792,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.48
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24240349,TEACHER,7.443963289260864,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.44
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22968380,TEACHER,7.428178548812866,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.43
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11616482,TEACHER,7.421175956726074,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.42
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+89508407,ADVOCATE,7.377918720245361,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.38
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36569713,TEACHER,7.371200323104858,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.37
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19164410,DESIGNER,7.292581081390381,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20399718,TEACHER,7.25499963760376,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.25
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+11943065,TEACHER,7.232255935668945,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.23
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21550454,TEACHER,7.171356916427612,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.17
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+58105060,TEACHER,7.117733716964722,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+53129155,TEACHER,7.053500890731812,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.05
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+31040875,ADVOCATE,7.046500205993652,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.05
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+51681660,DESIGNER,7.041855096817017,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.04
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+12467531,TEACHER,7.028160572052002,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.03
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21611212,TEACHER,7.007103443145752,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 7.01
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+96547039,TEACHER,6.960182189941406,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.96
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+34511655,DESIGNER,6.954434394836426,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.95
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+10504237,TEACHER,6.833303213119507,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.83
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+75057933,ADVOCATE,6.811058282852173,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.81
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+20986595,DESIGNER,6.780324101448059,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.78
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+24655918,DESIGNER,6.769538640975952,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.77
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+19302310,TEACHER,6.672256708145142,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.67
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+86322251,TEACHER,6.64381730556488,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.64
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+38744475,DESIGNER,6.643305659294128,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.64
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+17311685,TEACHER,6.615787506103516,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.62
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+39718499,INFORMATION-TECHNOLOGY,6.599970817565918,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.6
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+69532425,TEACHER,6.484032869338989,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.48
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+36206485,TEACHER,6.480239748954773,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.48
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27126818,TEACHER,6.405334711074829,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.41
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+62184086,TEACHER,6.309696435928345,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.31
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+66683238,TEACHER,6.116840362548828,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.12
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+21614256,ADVOCATE,6.068865776062012,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.07
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+28642819,TEACHER,6.060771584510803,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 6.06
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+48547319,TEACHER,5.965933859348297,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.97
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+53169257,ADVOCATE,5.914618670940399,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.91
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+14445309,ADVOCATE,5.743777811527252,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.74
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22408666,TEACHER,5.587850272655487,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.59
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+22632070,TEACHER,5.285345077514648,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.29
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
+27531694,TEACHER,5.2069056779146194,[],"['python', 'machine learning', 'deep learning', 'tensorflow', 'aws', 'sql']","
+
+Final Score: 5.21
+
+Matched Skills: 0
+
+Missing Skills: 6
+
+The candidate demonstrates strong alignment with the job description based on semantic similarity and skill matching.
+
+"
