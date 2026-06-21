@@ -1,5 +1,11 @@
 # TalentMatch AI - Resume Screening and Candidate Ranking System
 
+## Live Demo
+
+Streamlit App:
+https://ai-powered-visual-defect-detection-pryaxjddqh8uskqqgwzhlm.streamlit.app/
+
+
 ## Introduction
 
 Recruitment is a time-consuming process, especially when recruiters have to manually go through hundreds of resumes for a single job opening. The objective of this project is to automate the initial screening process by using Artificial Intelligence and Natural Language Processing techniques.
