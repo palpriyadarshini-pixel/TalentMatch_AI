@@ -1,7 +1,6 @@
 import streamlit as st
 import sys
 import os
-from backend.resume_parser import extract_resume_text
 
 project_root = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "..")
@@ -9,6 +8,8 @@ project_root = os.path.abspath(
 
 if project_root not in sys.path:
     sys.path.append(project_root)
+
+from backend.resume_parser import extract_resume_text
 
 from backend.pipeline import run_pipeline
 print("Import Success")
