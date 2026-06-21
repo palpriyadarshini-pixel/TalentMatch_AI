@@ -123,7 +123,7 @@ TalentMatch_AI/
 1. Clone the repository.
 
 ```bash
-git clone [<repository-link>](https://github.com/palpriyadarshini-pixel/TalentMatch_AI.git)
+git clone [repository-link](https://github.com/palpriyadarshini-pixel/TalentMatch_AI.git)
 ```
 
 2. Create a virtual environment.
