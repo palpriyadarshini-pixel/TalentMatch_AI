@@ -3,7 +3,7 @@
 ## Live Demo
 
 Streamlit App:
-https://ai-powered-visual-defect-detection-pryaxjddqh8uskqqgwzhlm.streamlit.app/
+https://talentmatchai-qzf654wvq4pznmkyh2qdhe.streamlit.app/
 
 
 ## Introduction
